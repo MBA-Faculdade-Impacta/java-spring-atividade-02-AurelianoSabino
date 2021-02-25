@@ -51,5 +51,6 @@ public class HelloWorldControllerTests {
 		assertEquals("Hello world TESTE !".toUpperCase(), response.toUpperCase());
 		
 	}
+
 	
 }
